@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=loaderclock
+Exec=qmlscene $@ Main.qml
+Icon=loaderclock.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+

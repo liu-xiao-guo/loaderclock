@@ -1,0 +1,17 @@
+{
+    "name": "loaderclock.liu-xiao-guo",
+    "description": "description of loaderclock",
+    "architecture": "all",
+    "title": "loaderclock",
+    "hooks": {
+        "loaderclock": {
+            "apparmor": "loaderclock.apparmor",
+            "desktop":  "loaderclock.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+
